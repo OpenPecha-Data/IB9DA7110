@@ -15,8 +15,8 @@ default_language: bo
 source: https://library.bdrc.io
 source_file: null
 initial_creation_type: ocr
-imported: '2022-08-27T11:56:59.647534+00:00'
-last_modified: 2022-08-27 19:57:07.659819
+imported: '2022-09-03T14:48:39.567207+00:00'
+last_modified: 2022-09-03 22:48:45.624421
 parser: https://github.com/OpenPecha/Toolkit/blob/7f57883d84bc10351527a49ee6ce970ace404e50/openpecha/formatters/google_ocr.py
 source_metadata:
   id: http://purl.bdrc.io/resource/W3CN5063
@@ -25,7 +25,7 @@ source_metadata:
   reproduction_of: http://purl.bdrc.io/resource/MW3CN5063
   copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
   title: རྗེ་བཙུན་འཕགས་མ་སྒྲོལ་མའི་རྒྱུད་ཀྱི་བྱུང་བ་དང་བསྟོད་འགྲེལ་འགའ་ཕྱོགས་གཅིག་ཏུ་བསྒྲིགས་པ།
-  author: ཇོ་ནང་རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ།
+  author: དངུལ་ཆུ་དྷརྨ་བྷ་དྲ།
 statistics:
   ocr_word_mean_confidence_index: 0.9334973744513059
   ocr_word_median_confidence_index: 0.9800000190734863
